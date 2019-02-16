@@ -1,0 +1,30 @@
+.menublock{
+	 background: #5c7cfa;
+	 display: table;
+	 table-layout: fixed;
+	 width:100%;
+
+
+}
+.item {
+text-align: center;
+padding-top: 3rem;
+padding-bottom: 3rem;
+padding-right: 3rem;
+padding-left: 3rem;
+display: table-cell;
+color: white;
+text-decoration: noen;
+font-size: 2rem;
+
+}
+
+.item:hover{
+
+	background: #748ffc;
+}
+.item:active{
+
+	background: white;
+	color:#5c7cfa
+}
