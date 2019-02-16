@@ -30,7 +30,7 @@ class App extends Component {
         <BrowserRouter>
         <div>
         <MenuBlock/>
-         <Route  exact path="/"  component={ Home} />
+         <Route  exact path="/"  component={ Area1} />
         <Route   path="/area1"  component={Area1 } />
         <Route   path="/area2"  component={Area2 } />
         <Route   path="/area3"  component={Area3 } />
